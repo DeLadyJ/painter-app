@@ -9,7 +9,7 @@ function App() {
     const response = await fetch('https://api.openai.com/v1/images/generations', {
       method: 'POST',
       headers: {
-        "Authorization": `Bearer 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`,
+        "Authorization": `Bearer <link rel = "stylesheet" href = "config.js" > `,
           "Content-Type": "application/json"
 
     },
